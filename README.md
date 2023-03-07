@@ -3,7 +3,7 @@ Jokes API: https://v2.jokeapi.dev/
 </h1>
 <h2>
 Usage:
-* /joke - get a joke
+ /joke - get a joke
 </h2>
 
 <h3>
